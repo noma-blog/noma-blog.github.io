@@ -5,8 +5,10 @@ tags: tag1 tag2 tag3 tag4
 ---
 
 ## Lorem Ipsum
+
 ---
-```vim
+
+```console
 # vim /etc/sysctl.conf
 net.ipv4.ip_forward = 1
 # sysctl -p (takes effect immediately)
