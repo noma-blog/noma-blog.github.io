@@ -23,6 +23,7 @@ net.ipv4.ip_forward = 1
 net.ipv4.ip_forward = 1
 # sysctl -p (takes effect immediately)
 ```
+---
 ```
 # vim /etc/sysctl.conf
 net.ipv4.ip_forward = 1
